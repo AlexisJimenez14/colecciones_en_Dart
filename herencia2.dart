@@ -175,6 +175,7 @@ class Paquete extends Envio {
 }
 
 void main() {
+  print("Alexis Fabian Jimenez Jimenez  mat:22308051281213 gpo 6 J");
   // Crear una instancia de Computadora
   Computadora computadora = Computadora(
     id_producto: 0,
